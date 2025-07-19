@@ -64,6 +64,10 @@ main
     width: 90%;
     
   }
+  header>h3
+  {
+    margin-right: 50px;
+  }
 }
 #header
 {
